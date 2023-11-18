@@ -1,3 +1,4 @@
 stargazer
 mizani
 statsmodels
+scikit-misc
